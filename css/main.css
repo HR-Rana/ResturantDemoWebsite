@@ -16,18 +16,18 @@
     --h6height: 26px;
     --bodyheight: 26px;
     --pfamily: 'Rubik', sans-serif;
-    --red: #FF5B5B;
+    --red: #FFfaedcd;
     --gray: #777777;
     --text: #555555;
     --blue: #CB0000;
     --white: #ffffff;
     --chalk: #f5f5f5;
     --green: #A60000;
-    --purple: #FF5B5B;
-    --orange: #BD0000;
-    --yellow: #FF5B5B;
+    --purple: #5e548e;
+    --orange: #e76f51;
+    --yellow: #ffd469;
     --body: #f5f6f7;
-    --border: #E20000;
+    --border: #d4a373;
     --heading: #39404a;
     --primary: #A60000;
     --sub-heading: #565765;
@@ -35,10 +35,10 @@
     --green-dark: #A60000;
     --gray-chalk: #cccccc;
     --intro-bg: #f8fffa;
-    --facebook: #CB0000;
-    --linkedin: #CB0000;
-    --twitter: #00acee;
-    --google: #FF5B5B;
+    --facebook: #e76f51;
+    --linkedin: 0077b6;
+    --twitter: #457b9d;
+    --google: #e9c46a;
     --instagram: #F2E8CF;
     --primary-bshadow: 0px 15px 35px 0px rgba(0, 0, 0, 0.1);
     --primary-tshadow: 2px 3px 8px rgba(0, 0, 0, 0.1)
